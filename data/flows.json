@@ -1,1 +1,94 @@
-{"schemaVersion":1,"generatedAt":"2026-09-08T20:00:00.000Z","status":"seed","title":"BondStats Global Capital Flow Map","indicator":{"id":"BN.KLT.PTXL.CD","name":"Portfolio Investment, net (BoP, current US$)","source":"World Bank Open Data","license":"CC BY 4.0","url":"https://data.worldbank.org/indicator/BN.KLT.PTXL.CD"},"referenceYear":null,"economies":[],"methodology":"BS-GCFP v1","notes":["Run the GitHub Action once after upload to populate current observations."]}
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-08T21:16:14.695Z",
+  "status": "live",
+  "title": "BondStats Global Capital Flow Map",
+  "indicator": {
+    "id": "BN.KLT.PTXL.CD",
+    "name": "Portfolio Investment, net (BoP, current US$)",
+    "source": "World Bank Open Data",
+    "license": "CC BY 4.0",
+    "url": "https://data.worldbank.org/indicator/BN.KLT.PTXL.CD"
+  },
+  "referenceYear": 2025,
+  "economies": [
+    {
+      "code": "US",
+      "name": "United States",
+      "year": 2025,
+      "value": -1348485000000
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "year": 2025,
+      "value": -52013741234.3196
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "year": 2025,
+      "value": 53990104216.3044
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "year": 2025,
+      "value": 20856752353.6713
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "year": 2025,
+      "value": -105453676092.156
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "year": 2025,
+      "value": 425584560991.83
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong SAR, China",
+      "year": 2024,
+      "value": 158552277553.992
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "year": 2025,
+      "value": 72860912463.1917
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "year": 2025,
+      "value": -18953994695.8703
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "year": 2025,
+      "value": 11674150657.1287
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "year": 2024,
+      "value": -3648740639.89108
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "year": 2025,
+      "value": 10174568780.6152
+    }
+  ],
+  "methodology": "BS-GCFP v1",
+  "notes": [
+    "Observed portfolio-investment values may have different latest reference years by economy; each economy retains its own year.",
+    "Directional map routing is a BondStats visualization between net-pressure zones and does not represent observed bilateral transfers.",
+    "BS-GCFP is a BondStats analytical normalization, not an official World Bank or IMF indicator and not investment advice."
+  ]
+}
