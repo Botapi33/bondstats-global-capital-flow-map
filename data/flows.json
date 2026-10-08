@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T15:33:20.412Z",
+  "generatedAt": "2026-10-08T21:18:12.746Z",
   "status": "live",
   "title": "BondStats Global Capital Flow Map",
   "indicator": {
@@ -51,8 +51,8 @@
     {
       "code": "HK",
       "name": "Hong Kong SAR, China",
-      "year": 2024,
-      "value": 158552277553.992
+      "year": 2025,
+      "value": 62540086335.4633
     },
     {
       "code": "SG",
